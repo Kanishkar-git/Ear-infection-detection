@@ -1,0 +1,5 @@
+streamlit
+pillow
+inference_sdk
+opencv-python
+numpy
