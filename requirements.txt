@@ -4,7 +4,7 @@ opencv-python-headless
 pillow
 numpy
 google-generativeai
-langchain
-langchain-google-genai
+langchain==0.1.16
+langchain-google-genai==1.0.3
 plotly
 reportlab
