@@ -15,7 +15,7 @@ def query_gemini(class_name, confidence):
     Provide the answer in **English and Tamil**.
     """
 
-    url = "https://gemini.googleapis.com/v1/llm:predict"
+    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
     headers = {
         "Authorization": f"Bearer {GEMINI_API_KEY}",
         "Content-Type": "application/json"

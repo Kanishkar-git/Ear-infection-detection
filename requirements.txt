@@ -1,5 +1,7 @@
 streamlit
-pillow
-inference_sdk
+Pillow
 opencv-python
+reportlab
+google-generativeai
+inference-sdk
 numpy
