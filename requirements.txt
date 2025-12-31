@@ -1,10 +1,10 @@
 streamlit
-inference-sdk
-opencv-python-headless
-pillow
-numpy
+Pillow
+opencv-python
+reportlab
 google-generativeai
+inference-sdk
+numpy
 langchain==0.1.16
 langchain-google-genai==0.0.9
 plotly
-reportlab
