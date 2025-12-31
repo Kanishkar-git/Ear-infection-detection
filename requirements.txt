@@ -1,7 +1,10 @@
 streamlit
-Pillow
-opencv-python
-reportlab
-google-generativeai
 inference-sdk
+opencv-python-headless
+pillow
 numpy
+google-generativeai
+langchain
+langchain-google-genai
+plotly
+reportlab
