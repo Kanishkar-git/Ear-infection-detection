@@ -5,6 +5,6 @@ pillow
 numpy
 google-generativeai
 langchain==0.1.16
-langchain-google-genai==1.0.3
+langchain-google-genai==0.0.9
 plotly
 reportlab
